@@ -1,7 +1,7 @@
-# Quoi faire Pau
+THevent
 
-Il s'agit de l'aaplication permettant de découvrir tous les évènements qui se passe dans la ville de Pau. Allez les découvrir.
+Ruby 2.7.1p83
+Rails 5.2.6
+
   
     
-https://quoi-faire-pau.herokuapp.com/ pour tester l'application
-
